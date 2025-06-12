@@ -1,0 +1,29 @@
+INVOICE
+
+Invoice #: INV-2024-001
+Date: January 15, 2024
+
+Bill To:
+John Smith
+123 Main Street
+Anytown, NY 12345
+
+From:
+Tech Solutions Inc.
+456 Business Ave
+Corporate City, CA 90210
+Phone: (555) 123-4567
+
+Description                  Qty    Price    Total
+Web Development Services      40    $125.00  $5,000.00
+Database Setup                8     $150.00  $1,200.00
+System Integration           16     $175.00  $2,800.00
+
+                            Subtotal: $9,000.00
+                                 Tax: $720.00
+                               Total: $9,720.00
+
+Payment Terms: Net 30
+Due Date: February 14, 2024
+
+Thank you for your business!
