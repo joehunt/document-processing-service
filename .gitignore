@@ -54,6 +54,7 @@ logs/
 
 # Docker
 .dockerignore
+docker-compose
 
 # IDE
 .vscode/
